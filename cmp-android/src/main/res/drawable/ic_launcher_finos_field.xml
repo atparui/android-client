@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Atparui / Finos Field - launcher icon for field agents -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background: rounded square (teal/green for field) -->
+    <path
+        android:fillColor="#00796B"
+        android:pathData="M24,24 L84,24 L84,84 L24,84 Z"
+        android:strokeWidth="0"
+        android:strokeColor="#00796B" />
+    <!-- Corner radius effect: circle at center for icon content -->
+    <path
+        android:fillColor="#004D40"
+        android:pathData="M54,54m-22,0a22,22 0,1 1,44 0a22,22 0,1 1,-44 0" />
+    <!-- Letter A - atparui (field variant) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,62 L54,28 L74,62 L66,62 L64,55 L44,55 L42,62 Z M48,50 L60,50 L54,38 Z" />
+</vector>

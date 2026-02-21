@@ -24,7 +24,7 @@ class KMPLibraryConventionPlugin : Plugin<Project> {
 
             extensions.configure<LibraryExtension> {
                 configureKotlinAndroid(this)
-                defaultConfig.targetSdk = 34
+                defaultConfig.targetSdk = 30
                 configureFlavors(this)
                 /**
                  * The resource prefix is derived from the module name,

@@ -22,11 +22,12 @@ val packageNameSpace: String = libs.versions.androidPackageNamespace.get()
 
 android {
     namespace = "cmp.android.app"
+    setProperty("archivesBaseName", "finos-field")
 
     defaultConfig {
         applicationId = packageNameSpace
-        versionName = System.getenv("VERSION") ?: project.dynamicVersion
-        versionCode = System.getenv("VERSION_CODE")?.toIntOrNull() ?: 1
+        versionName = System.getenv("VERSION") ?: "1.0.1-finos"
+        versionCode = System.getenv("VERSION_CODE")?.toIntOrNull() ?: 2
         vectorDrawables.useSupportLibrary = true
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

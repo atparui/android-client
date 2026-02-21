@@ -11,8 +11,8 @@
 <resources>
 
     <!-- General Terms Begin Here -->
-    <string name="app_name">MifosXDroid</string>
-    <string name="mifos_account">Mifos 账户</string>
+    <string name="app_name">Finos Field</string>
+    <string name="mifos_account">Finos 账户</string>
     <string name="enter_credentials"><b>请输入您的凭证。</b></string>
     <string name="datatables">数据表</string>
     <string name="associated_datatables">关联的数据表</string>
@@ -39,10 +39,10 @@
     <string name="amount">总额</string>
     <string name="date">日期</string>
     <string name="payment_type">付款方式</string>
-    <string name="mifos_instance_domain">Mifos 实例节点</string>
+    <string name="mifos_instance_domain">Finos 实例节点</string>
     <string name="username">用户名</string>
     <string name="password">密码</string>
-    <string name="mifos" translatable="false">Mifos</string>
+    <string name="mifos" translatable="false">Finos</string>
     <string name="full_name">名称</string>
     <string name="account_number">账号</string>
     <string name="external_id">外部 ID</string>
@@ -177,7 +177,7 @@
     <string name="google_play_services_not_available">Google Play服务不可用
         .</string>
     <string name="empty_client_address">空地址列表</string>
-    <string name="mifos_path_tracker">Mifos 路径跟踪器</string>
+    <string name="mifos_path_tracker">Finos 路径跟踪器</string>
     <string name="description_location_tracking">位置跟踪现在开始</string>
     <string name="stop_tracking">停止追踪</string>
     <string name="start_tracking">开始追踪</string>

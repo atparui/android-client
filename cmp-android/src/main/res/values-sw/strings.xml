@@ -11,8 +11,8 @@
 <resources>
 
     <!-- General Terms Begin Here -->
-    <string name="app_name">MifosXDroid</string>
-    <string name="mifos_account">Akaunti ya Mifos</string>
+    <string name="app_name">Finos Field</string>
+    <string name="mifos_account">Akaunti ya Finos</string>
     <string name="enter_credentials"><b>Tafadhali ingiza vitambulisho vyako.</b></string>
     <string name="datatables">Meza ya Data</string>
     <string name="login">Ingia</string>
@@ -661,7 +661,7 @@
     <string name="client_search">Utafutaji wa mteja</string>
     <string name="total">Jumla</string>
     <string name="review_transaction">Tathmini shughuli za pesa</string>
-    <string name="mifos_instance_domain">Mfano wa kikoa cha Mifos</string>
+    <string name="mifos_instance_domain">Mfano wa kikoa cha Finos</string>
     <string name="loanproduct">Bidhaa ya mkopo</string>
     <string name="loanterm_month">Chagua muda wa mkopo</string>
     <string name="charge_id">Kitambulisho cha ada</string>
@@ -687,7 +687,7 @@
     <string name="sign_saved_success_msg">Faili imehifadhiwa kwa fanaka kwenye</string>
     <string name="sync_centers">Vituo</string>
     <string name="dialog_message_read_external_storage_permission_denied">Bila hii ruhusa, app haiwezi kupakia waraka wowote. Katika kupakia waraka, app inahitaji kufikia picha, media na faili kwenye simu yako. Una hakika kuwa unataka kuahirisha ruhusa hii?</string>
-    <string name="mifos_path_tracker">Kifuata njia cha Mifos</string>
+    <string name="mifos_path_tracker">Kifuata njia cha Finos</string>
     <string name="dialog_action_back">Nyuma</string>
     <string name="balance">Salio</string>
     <string name="deposit">Amana</string>

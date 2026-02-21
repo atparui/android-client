@@ -19,10 +19,10 @@ internal fun Project.configureKotlinAndroid(
     commonExtension: CommonExtension<*, *, *, *, *, *>,
 ) {
     commonExtension.apply {
-        compileSdk = 35
+        compileSdk = 35  // Keep 35 for dependencies; minSdk/targetSdk control device compatibility
 
         defaultConfig {
-            minSdk = 26
+            minSdk = 24  // 24 required by cmp-image-pick-n-crop; Samsung Note 10+ (API 28) supported
         }
 
         compileOptions {

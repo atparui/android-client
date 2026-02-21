@@ -553,7 +553,7 @@
         <item>loans</item>
         <item>savingsaccounts</item>
     </string-array>
-    <string name="app_name">MifosXDroid</string>
+    <string name="app_name">Finos Field</string>
     <string name="loan_charges_due">ऋण प्रभार की देय तिथि</string>
     <string name="all_centers_synced">सभी केंद्र सिंक कर दिये गये हैं</string>
     <string name="failed_to_load_centerpayload">सेंटर पेलोड लोड करने में विफल</string>
@@ -630,7 +630,7 @@
     !-- About App -->
     <string name="about_app">फील्ड ऑफिसर एप्लीकेशन एक एप्लीकेशन है बैंक स्टाफ फील्ड ऑफिसर के लिए विकसित किया गया
          ग्राहकों का केंद्र, समूह, ऋण खाता, बचत खाता, आदि।ट्रैक रखने के लिए </string>
-    <string name="about_mifos">द्वारा विकसित <a href="https://mifos.org/">Mifos</a>
+    <string name="about_mifos">द्वारा विकसित Finos / Atparui
         <a href="https://github.com/openMF/android-client/graphs/contributors">contributors</a>.
     </string>
     <string name="about_us_connect">हमारे से जुड़िये</string>
